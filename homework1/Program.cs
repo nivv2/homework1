@@ -10,7 +10,7 @@ namespace firstproject
             try
             {
                 DeliveryDrone c1 = new DeliveryDrone("001", 30);
-                //DeliveryDrone c2 = new DeliveryDrone("002", -60);
+         
                 //DeliveryDrone c3 = new DeliveryDrone("", 90);
                 
                 
